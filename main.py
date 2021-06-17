@@ -27,4 +27,4 @@ XMl_PATH_TO_NUMBER_LIST_ELEMENT = "nums"
 
 if __name__ == '__main__':
     number_list = get_numbers_from_csv(CSV_FILE_NAME)
-    change_numbers_in_xml(XML_FILE_NAME, number_list, 'nums')
+    change_numbers_in_xml(XML_FILE_NAME, number_list, XMl_PATH_TO_NUMBER_LIST_ELEMENT)
