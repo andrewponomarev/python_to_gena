@@ -1,0 +1,10 @@
+<note>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+    <nums>
+        <num id="123" />
+        <num id="124" />
+    </nums>
+</note>
